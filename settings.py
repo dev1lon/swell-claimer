@@ -1,0 +1,2 @@
+claimer = True
+transfer = True
